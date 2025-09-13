@@ -2,6 +2,7 @@
   "name": "placement-day-planner",
   "version": "1.0.0",
   "description": "A modern React app for tracking placement day study plans with timers and progress tracking",
+  "homepage": "https://pawan2570.github.io/placment",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
