@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/placment/static/css/main.377da0e7.css",
+    "main.js": "/placment/static/js/main.8076492d.js",
+    "index.html": "/placment/index.html",
+    "main.377da0e7.css.map": "/placment/static/css/main.377da0e7.css.map",
+    "main.8076492d.js.map": "/placment/static/js/main.8076492d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.377da0e7.css",
+    "static/js/main.8076492d.js"
+  ]
+}
