@@ -1,0 +1,42 @@
+.instructions {
+  margin-top: 2rem;
+}
+
+.instructions h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: var(--text);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.instructions-icon {
+  font-size: 1.25rem;
+  color: var(--primary);
+}
+
+.instructions ol {
+  padding-left: 1.5rem;
+  color: var(--text-light);
+  line-height: 1.6;
+}
+
+.instructions li {
+  margin-bottom: 0.75rem;
+}
+
+.instructions strong {
+  color: var(--text);
+  font-weight: 600;
+}
+
+@media (max-width: 768px) {
+  .instructions h2 {
+    font-size: 1.3rem;
+  }
+  
+  .instructions ol {
+    padding-left: 1.25rem;
+  }
+}
